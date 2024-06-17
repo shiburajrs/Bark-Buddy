@@ -25,15 +25,17 @@ A Flutter application for pet adoption, connecting potential adopters with rescu
 
 ## Screenshots
 
-![Splash Screen](assets/images/screenshots/splashscreen.png)
-![Welcome Screen](assets/images/screenshots/welcomeScreen.png)
-![Home Screen](assets/images/screenshots/homepage.png)
-![Pet Detail Screen](assets/images/screenshots/petdetailPage.png)
-![Pet Detail Screen 2](assets/images/screenshots/petDetail2.png)
-![Wish list Screen](assets/images/screenshots/wishlist.png)
-![Add to cart](assets/images/screenshots/addToCart.png)
-![Delete from wishlist](assets/images/screenshots/deleteFromWishlist.png)
-![Adoption Form](assets/images/screenshots/adoptonIntrestForm.png)
+<div align="center">
+  <img src="assets/images/screenshots/splashscreen.png" alt="Splash Screen" style="width: 250px; margin: 5px;">
+  <img src="assets/images/screenshots/welcomeScreen.png" alt="Welcome Screen" style="width: 250px; margin: 5px;">
+  <img src="assets/images/screenshots/homepage.png" alt="Home Screen" style="width: 250px; margin: 5px;"><br>
+  <img src="assets/images/screenshots/petdetailPage.png" alt="Pet Detail Screen" style="width: 250px; margin: 5px;">
+  <img src="assets/images/screenshots/petDetail2.png" alt="Pet Detail Screen 2" style="width: 250px; margin: 5px;">
+  <img src="assets/images/screenshots/wishlist.png" alt="Wishlist Screen" style="width: 250px; margin: 5px;"><br>
+  <img src="assets/images/screenshots/addToCart.png" alt="Add to Cart" style="width: 250px; margin: 5px;">
+  <img src="assets/images/screenshots/deleteFromWishlist.png" alt="Delete from Wishlist" style="width: 250px; margin: 5px;">
+  <img src="assets/images/screenshots/adoptonIntrestForm.png" alt="Adoption Form" style="width: 250px; margin: 5px;">
+</div>
 
 ## Getting Started
 
