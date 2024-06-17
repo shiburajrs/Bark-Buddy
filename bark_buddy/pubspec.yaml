@@ -37,8 +37,6 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_gen_runner: ^5.5.0+1
   build_runner: ^2.4.11
-  provider: ^6.1.2
-  http: ^1.2.1
   flutter_html: ^3.0.0-beta.2
   url_launcher: ^6.3.0
 
@@ -77,6 +75,7 @@ flutter:
     - assets/images/notification/
     - assets/images/wishlist/
     - assets/images/profile/
+    - assets/images/screenshots/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

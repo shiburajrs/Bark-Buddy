@@ -35,7 +35,7 @@ class _AdoptionInterestFormPageState extends State<AdoptionInterestFormPage> {
       Navigator.push(
         context,
         MaterialPageRoute(
-          builder: (context) => PetAdoptionStatusPage(isSuccess: false),
+          builder: (context) => PetAdoptionStatusPage(isSuccess: true),
         ),
       );
     });
